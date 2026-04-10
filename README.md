@@ -385,9 +385,6 @@ If you use this system, please cite:
 }
 ```
 
-## License
-
-MIT License - See LICENSE file for details
 
 ## Contact & Support
 
